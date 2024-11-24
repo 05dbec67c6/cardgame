@@ -3,7 +3,7 @@
     xml:base="https://github.com/05dbec67c6/cardgame/game">
     <workspace>
         <atom:title>csie</atom:title>
-        <collection href="Packages">
+        <collection href="game">
             <atom:title>Packages</atom:title>
         </collection>
         <collection href="Screenshots">
