@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.w3.org/2007/app"
-    xml:base="https://www.myget.org/F/octgngamedirectory/">
+    xml:base="https://github.com/05dbec67c6/cardgame/game">
     <workspace>
         <atom:title>csie</atom:title>
         <collection href="Packages">
