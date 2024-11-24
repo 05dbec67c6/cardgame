@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="smokerset" id="d0060ea7-9c64-45af-a700-8a716a9cd80f"
+    gameId="1e8db156-11a1-4c2a-aa89-2b77aa840e20" gameVersion="1.0.0.2" version="1.0">
+    <cards>
+        <card id="fe036d9e-6e79-4686-8215-df6decb57a65" name="Ace of Spades">
+            <property name="Text" value="Heart"/>
+        </card>
+    </cards>
+</set>
